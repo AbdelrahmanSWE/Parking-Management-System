@@ -1,0 +1,7 @@
+
+1
+ahmed
+ahmed123
+12345
+mon:1pm-9pm,tue:2pm-10pm
+2000.0

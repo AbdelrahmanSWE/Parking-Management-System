@@ -1,0 +1,7 @@
+
+1
+potato
+potatostick
+1234
+mon:1pm-9pm,tue:2pm-10pm
+100.0
